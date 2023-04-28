@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FolashadeOmoloja
-- 👀 I’m interested in Software Engineerinf
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via my email omolojashade@gmail.com
