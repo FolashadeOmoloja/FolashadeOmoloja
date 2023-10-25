@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FolashadeOmoloja
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning javascript
+- 👀 I’m a Software Engineer
+- 🌱 I use Next js, typescript 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via my email omolojashade@gmail.com
 
