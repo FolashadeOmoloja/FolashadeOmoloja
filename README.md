@@ -36,15 +36,17 @@ I'm a software developer passionate about solving problems, building intuitive u
 
 - **🛠 [TalentNest Admin Panel](https://talent-nest-admin.vercel.app)**  
   A complete admin system with AI-powered hiring tools, interview scheduling, and resume matching.
-
-- **⚡ [QuickPay](https://quick-pay-beta.vercel.app)**  
-  Beautifully animated landing page built with Framer Motion.
+  
+- **🌍 [Vestora](https://vestoraa.vercel.app/)**  
+  AI powered Investment platform.
 
 - **🚗 [FastKar](https://fast-kar.vercel.app)**  
   A booking app with authentication and real-time UI updates.
 
-- **🌍 [Planet Protectors](https://planetprotectors.netlify.app/home)**  
-  Promotes sustainability through educational content.
+- **⚡ [QuickPay](https://quick-pay-beta.vercel.app)**  
+  Beautifully animated landing page built with Framer Motion.
+
+
 
 ---
 
